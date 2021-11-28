@@ -1,0 +1,4 @@
+ACCOUNT_SID "YourTwilioAccount_SID"
+AUTH_TOKEN "yourTwilioAuthToken"
+senderNumber "+putTwilionumhere";
+targetNumber "+44putreceivernumberhere"
